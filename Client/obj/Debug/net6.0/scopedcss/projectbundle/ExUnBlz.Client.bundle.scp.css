@@ -1,0 +1,27 @@
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-xhekdo1ljc] {
+    height: 100vh;
+    position: relative;
+    display: flex;
+}
+
+main[b-xhekdo1ljc] {
+    flex: 1;    
+}
+
+.sidebar[b-xhekdo1ljc] {
+    background-color: lightyellow;   
+    width: 100px;
+    
+}
+
+/* /Shared/NavMenu.razor.rz.scp.css */
+.BtnIdent[b-jcgzcn35co] {
+    /* position: absolute;
+    bottom: 0; */
+    background-color: aquamarine;
+    /*     width: 100px;
+ */
+    margin: 5px;
+    padding: 5px;
+}

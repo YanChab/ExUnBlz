@@ -1,0 +1,16 @@
+.page[b-xhekdo1ljc] {
+    height: 100vh;
+    position: relative;
+    display: flex;
+}
+
+main[b-xhekdo1ljc] {
+    flex: 1;    
+}
+
+.sidebar[b-xhekdo1ljc] {
+    background-color: lightyellow;   
+    width: 100px;
+    
+}
+

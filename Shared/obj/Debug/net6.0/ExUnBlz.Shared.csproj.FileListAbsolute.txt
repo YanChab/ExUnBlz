@@ -1,0 +1,12 @@
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/bin/Debug/net6.0/ExUnBlz.Shared.deps.json
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/bin/Debug/net6.0/ExUnBlz.Shared.dll
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/bin/Debug/net6.0/ExUnBlz.Shared.pdb
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.csproj.AssemblyReference.cache
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.AssemblyInfoInputs.cache
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.AssemblyInfo.cs
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.csproj.CoreCompileInputs.cache
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.dll
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/refint/ExUnBlz.Shared.dll
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ExUnBlz.Shared.pdb
+/Users/yanchabrerie/Repos/ExUnBlz/Shared/obj/Debug/net6.0/ref/ExUnBlz.Shared.dll
